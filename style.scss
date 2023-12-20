@@ -222,7 +222,7 @@ a {
       transition-property: transform;
       bottom: 0px;
       left: 50%;
-      width: calc(49.6063vh);
+      width: calc(48vh);
       height: calc(70vh);
       transform-origin: center bottom;
       transform: translateX(-50%) scale(1);
@@ -292,6 +292,7 @@ a {
         border: 3px solid #bbc4cd;
         border-bottom: none;
         overflow: hidden;
+        //margin-left: -1px;
         border-radius: calc(2.5vh) calc(2.5vh) 0 0;
         height: calc(70vh);
         width: calc(49.6063vh);
